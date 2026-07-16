@@ -41,27 +41,28 @@ The objective of this project is to generate meaningful business insights by ana
 ## 📸 Project Visualizations
 
 ### 📋 Booking Status Distribution
-![Booking Status](screenshot/booking_status.jpeg)
+![Booking Status](booking_status.jpeg)
 
 ---
 
 ### 💳 Payment Method Distribution
-![Payment Method](screenshot/payment_method.jpeg)
+![Payment Method](payment_method.jpeg)
+
 
 ---
 
 ### ⭐ Driver Ratings Distribution
-![Driver Ratings](screenshot/driver_ratings.jpeg)
+![Driver Ratings](driver_ratings.jpeg)
 
 ---
 
 ### 🚖 Hourly Uber Demand
-![Hourly Uber Demand](screenshot/hourly_demand.jpeg)
+![Hourly Uber Demand](hourly_demand.jpeg)
 
 ---
 
 ### 📅 Daily Uber Trips
-![Daily Uber Trips](screenshot/daily_trips.jpeg)
+![Daily Uber Trips](daily_trips.jpeg)
 ---
 ## 💡 Key Insights
 
